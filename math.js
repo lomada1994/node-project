@@ -7,6 +7,4 @@ var performOperations = {
 		return a*b;
 	}
 };
-
-
 module.exports = performOperations;
